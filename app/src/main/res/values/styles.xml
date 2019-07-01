@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorOnyx</item>
+        <item name="colorPrimaryDark">@color/colorOnyxDark</item>
+
+        <!--Menu item custom-->
+        <item name="android:textColor">@color/colorText_100</item>
+        <item name="android:itemBackground">@color/colorWhite</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Your Story</string>
+    <string name="dang_nhap_text">ĐĂNG NHẬP</string>
+    <string name="email_text">Email</string>
+    <string name="dont_have_account_text">Bạn chưa có tài khoản?</string>
+    <string name="dang_ky_text">ĐĂNG KÝ</string>
+    <string name="password_text">Mật khẩu</string>
+    <string name="nhap_lai_pass_text">Nhập lại mật khẩu</string>
+    <string name="update_info_text">CẬP NHẬT THÔNG TIN</string>
+    <string name="upload_image_text">TẢI ẢNH LÊN</string>
+    <string name="ten_text">Tên:</string>
+    <string name="bio_text">Giới thiệu:</string>
+    <string name="option_text">(tùy chọn)</string>
+    <string name="save_text">LƯU THÔNG TIN</string>
+    <string name="have_account_text">Bạn đã có tài khoản?</string>
+
+    <string name="dang_bai_txt">ĐĂNG BÀI</string>
+    <string name="comment_hint_text">Viết bình luận…</string>
+    <string name="comment_date_text">Vừa xong</string>
+    <string name="menu_logout_txt">Đăng xuất</string>
+    <string name="edit_profile_txt">Chỉnh sửa</string>
+    <string name="click_to_choose_image_txt">Chọn ảnh</string>
+    <string name="menu_delete_txt">Xóa bài</string>
+    <string name="comment_delete_txt">Xóa bình luận</string>
+    <string name="tab_posts_txt">Bài đăng</string>
+    <string name="tab_followers_txt">Người theo dõi</string>
+    <string name="tab_following_txt">Đang theo dõi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

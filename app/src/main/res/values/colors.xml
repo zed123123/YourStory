@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnyx">#2F3944</color>
+    <color name="colorOnyxDark">#272F38</color>
+    <color name="colorCarminePink">#DE4E4A</color>
+    <color name="colorGreenCrayola">#16A085</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack_5">#0D000000</color>
+    <color name="colorText_70">#B32F3944</color>
+    <color name="colorText_100">#2f3944</color>
+    <color name="colorGreyBackground">#1A000000</color>
+</resources>
